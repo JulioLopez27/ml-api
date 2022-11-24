@@ -11,3 +11,5 @@ Luego, basta con ir a la carpeta pdfs y se encontrará con el archivo ejercicios
 
 Al abrir el archivo, se podra dar cuenta de que el codigo no es dinámico y que los datos estan hardcoded, eso es porque
  no se logro hacer la "comunicacion" entre la parte Web con la Api y que falta otros componentes solicitados para el ejercicio.
+
+ link repositorio parte web -> https://github.com/JulioLopez27/ml-web
