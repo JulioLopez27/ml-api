@@ -1,0 +1,11 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Julio Lopez <julioneo@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pdfmake": "^0.2.6"
+  }
+}
